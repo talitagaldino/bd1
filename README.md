@@ -1,2 +1,2 @@
 # bd1
-Banco de dados 1
+Roteiros da disciplina banco de dados 1 2019.2
