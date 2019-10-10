@@ -31,3 +31,4 @@ CREATE TABLE perfil_usuario(
 
 INSERT INTO perfil_usuario (id, descr_perfil, cadastra_usuario, cadastra_musica, faz_avaliacao) VALUES (1, 'admin', true, true, true);
 INSERT INTO perfil_usuario (id, descr_perfil, cadastra_usuario, cadastra_musica, faz_avaliacao) VALUES (2, 'cliente', false, false, true);
+//legal
