@@ -133,3 +133,4 @@ ALTER TABLE tarefas ADD COLUMN func_resp_id integer;
 
 --NÃO CONSEGUI ADICIONAR ESSA CONSTRAINT =(
 ALTER TABLE tarefas ADD CONSTRAINT func_resp_id_null CHECK (func_resp_id IS NOT NULL AND status = 'E');
+// uau!
